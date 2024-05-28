@@ -8,7 +8,7 @@
 
     The specialty is that you can make up to 10 dosas within a minute by pressing a button
 
-## Working Process Flow
+## Work process and flow
 
 1. [Block Diagram & Architecture Design](#)
 2. [Planning Rough Schematic](#)
